@@ -1,0 +1,77 @@
+.BarraCinza{
+    width: 1920px;
+    height: 70px;
+    background-color: rgb(37, 39, 39);
+    margin-left: -8px;
+    margin-top: -11px;
+    border-bottom: 9px solid chocolate;
+}
+
+.div2{
+    font-size: 30px;
+    font-family: arial, sans-serif;
+    height: 50px;
+    color:  white;
+    padding-top: 1rem;
+    text-align: center;
+} 
+
+.titulo{
+    background-color: white;
+    max-width: 90rem;
+    text-align: left;
+}
+
+h1{
+    font-size: 95px;
+}
+
+.Negrito{
+    font-weight: bold;
+}
+
+.CinzaEscuro{
+    color: rgb(95, 95, 95);
+    font-size: 40px;
+}
+
+.CinzaClaro{
+    color: rgba(150, 150, 150, 0.877);
+}
+
+.CorpoTexto{
+    background-color: white;
+    max-width: 60rem;
+    text-align: left;
+    font-size: 35px;
+    color: rgb(95, 95, 95);
+}
+
+.Laranja{
+    color: darkorange;
+    font-size: 32px;
+}
+
+.CinzaLetrasImagen{
+        color: rgb(95, 95, 95);
+        font-size: 18px;
+}
+
+.Normal{
+    font-size: 32px;
+    margin-left: 140px;
+    margin-top: -35px;
+}
+
+.BarraCinza2{
+    width: 1920px;
+    height: 70px;
+    background-color: rgb(37, 39, 39);
+    margin-left: -8px;
+    margin-top: -11px;
+    border-bottom: 9px rgb(37, 39, 39);;
+}
+
+.Fotos{
+    margin-left: 20px;
+}
